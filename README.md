@@ -88,10 +88,10 @@ To know more about plugin additions please visit [folke/lazy.nvim](https://githu
 
 #### Example: Adding an autopairs plugin
 
-In the file: `lua/custom/plugins/autopairs.lua`, add:
+In the file: `lua/plugins/autopairs.lua`, add:
 
 ```lua
--- File: lua/custom/plugins/autopairs.lua
+-- File: lua/plugins/autopairs.lua
 
 return {
   "windwp/nvim-autopairs",
